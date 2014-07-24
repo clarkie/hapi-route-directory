@@ -1,0 +1,26 @@
+{
+  "name": "hapi-route-directory",
+  "version": "0.0.1",
+  "description": "A route directory for HAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clarkie/hapi-route-directory.git"
+  },
+  "keywords": [
+    "HAPI",
+    "routes"
+  ],
+  "author": "Clarkie <andrew.t.clarke@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkie/hapi-route-directory/issues"
+  },
+  "homepage": "https://github.com/clarkie/hapi-route-directory",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}

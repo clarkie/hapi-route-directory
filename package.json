@@ -1,6 +1,6 @@
 {
   "name": "hapi-route-directory",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A route directory for HAPI",
   "main": "index.js",
   "scripts": {
